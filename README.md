@@ -1,1 +1,19 @@
-# BasicoC-
+Basico C#
+- Declaração de variaveis e tipos
+- Outras formas de declaração
+- Constantes
+- Capturando entrada do usuário
+- Operadores aritiméticos
+- Condicionais 
+- Operadores lógicos 
+- Funções
+- Retorno de funções
+- Array
+- Switch
+- Enum
+- Enum com Switch
+- While
+- Do While
+- Foreach
+- For
+- Escopo
